@@ -1,6 +1,10 @@
 {
   "name": "vue-amplify-app",
+  "description": "Testing description app",
   "version": "0.1.0",
+  "engines": {
+    "node": "20.x"
+  },
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
